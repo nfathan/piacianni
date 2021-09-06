@@ -8,6 +8,7 @@ function Header() {
       <div className="container d-flex align-items-center">
         <Brand source={logo} />
         <Navigation />
+        <div></div>
       </div>
     </header>
   );
