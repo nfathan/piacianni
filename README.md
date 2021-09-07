@@ -1,3 +1,16 @@
+# PIACIANNI APP
+
+Project ini dibuat dengan Create React App
+
+## Ringkasan Aplikasi
+- Piacianni App adalah sebuah Landing Page dari sebuah bisnis rumahan yang memproduksi kue pia kering di kota Palu
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
