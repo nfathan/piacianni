@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/piacianni/static/css/main.fb613630.chunk.css",
+    "main.js": "/piacianni/static/js/main.4600721b.chunk.js",
+    "main.js.map": "/piacianni/static/js/main.4600721b.chunk.js.map",
+    "runtime-main.js": "/piacianni/static/js/runtime-main.6e180df3.js",
+    "runtime-main.js.map": "/piacianni/static/js/runtime-main.6e180df3.js.map",
+    "static/css/2.4cccadb8.chunk.css": "/piacianni/static/css/2.4cccadb8.chunk.css",
+    "static/js/2.1f7edfa5.chunk.js": "/piacianni/static/js/2.1f7edfa5.chunk.js",
+    "static/js/2.1f7edfa5.chunk.js.map": "/piacianni/static/js/2.1f7edfa5.chunk.js.map",
+    "static/js/3.401c0867.chunk.js": "/piacianni/static/js/3.401c0867.chunk.js",
+    "static/js/3.401c0867.chunk.js.map": "/piacianni/static/js/3.401c0867.chunk.js.map",
+    "index.html": "/piacianni/index.html",
+    "static/css/2.4cccadb8.chunk.css.map": "/piacianni/static/css/2.4cccadb8.chunk.css.map",
+    "static/css/main.fb613630.chunk.css.map": "/piacianni/static/css/main.fb613630.chunk.css.map",
+    "static/js/2.1f7edfa5.chunk.js.LICENSE.txt": "/piacianni/static/js/2.1f7edfa5.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/piacianni/static/media/boxicons.cbd149c5.ttf",
+    "static/media/cokelat.35cc87f1.png": "/piacianni/static/media/cokelat.35cc87f1.png",
+    "static/media/free-ongkir1.76a40f57.png": "/piacianni/static/media/free-ongkir1.76a40f57.png",
+    "static/media/free-ongkir2.63bfdece.png": "/piacianni/static/media/free-ongkir2.63bfdece.png",
+    "static/media/App.css": "/piacianni/static/media/testimoni-bg.9099a016.jpg",
+    "static/media/icofont.css": "/piacianni/static/media/icofont.dad3accb.woff",
+    "static/media/khijau.e4f172f3.png": "/piacianni/static/media/khijau.e4f172f3.png",
+    "static/media/pengawet-pemanis.78cac6b2.png": "/piacianni/static/media/pengawet-pemanis.78cac6b2.png",
+    "static/media/piacianni-logo-white.78e3560f.png": "/piacianni/static/media/piacianni-logo-white.78e3560f.png",
+    "static/media/piacianni.5949028e.png": "/piacianni/static/media/piacianni.5949028e.png",
+    "static/media/remixicon.css": "/piacianni/static/media/remixicon.f2616f59.ttf",
+    "static/media/testimoni2.3992a17e.jpg": "/piacianni/static/media/testimoni2.3992a17e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e180df3.js",
+    "static/css/2.4cccadb8.chunk.css",
+    "static/js/2.1f7edfa5.chunk.js",
+    "static/css/main.fb613630.chunk.css",
+    "static/js/main.4600721b.chunk.js"
+  ]
+}
