@@ -1,6 +1,6 @@
 import Header from './Header/Header';
 import Hero from './Hero/Hero';
-import Main from './Main';
+import Main from './Main/Main';
 import Footer from './Footer';
 
 import '../styles/App.css';
