@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/piacianni/static/css/main.fb613630.chunk.css",
-    "main.js": "/piacianni/static/js/main.4600721b.chunk.js",
-    "main.js.map": "/piacianni/static/js/main.4600721b.chunk.js.map",
+    "main.js": "/piacianni/static/js/main.95625a25.chunk.js",
+    "main.js.map": "/piacianni/static/js/main.95625a25.chunk.js.map",
     "runtime-main.js": "/piacianni/static/js/runtime-main.6e180df3.js",
     "runtime-main.js.map": "/piacianni/static/js/runtime-main.6e180df3.js.map",
     "static/css/2.4cccadb8.chunk.css": "/piacianni/static/css/2.4cccadb8.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.4cccadb8.chunk.css",
     "static/js/2.1f7edfa5.chunk.js",
     "static/css/main.fb613630.chunk.css",
-    "static/js/main.4600721b.chunk.js"
+    "static/js/main.95625a25.chunk.js"
   ]
 }
