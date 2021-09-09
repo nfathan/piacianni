@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/piacianni/static/css/main.90dfad4c.chunk.css",
-    "main.js": "/piacianni/static/js/main.06abe9e8.chunk.js",
-    "main.js.map": "/piacianni/static/js/main.06abe9e8.chunk.js.map",
+    "main.css": "/piacianni/static/css/main.fb613630.chunk.css",
+    "main.js": "/piacianni/static/js/main.95625a25.chunk.js",
+    "main.js.map": "/piacianni/static/js/main.95625a25.chunk.js.map",
     "runtime-main.js": "/piacianni/static/js/runtime-main.6e180df3.js",
     "runtime-main.js.map": "/piacianni/static/js/runtime-main.6e180df3.js.map",
     "static/css/2.4cccadb8.chunk.css": "/piacianni/static/css/2.4cccadb8.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.401c0867.chunk.js.map": "/piacianni/static/js/3.401c0867.chunk.js.map",
     "index.html": "/piacianni/index.html",
     "static/css/2.4cccadb8.chunk.css.map": "/piacianni/static/css/2.4cccadb8.chunk.css.map",
-    "static/css/main.90dfad4c.chunk.css.map": "/piacianni/static/css/main.90dfad4c.chunk.css.map",
+    "static/css/main.fb613630.chunk.css.map": "/piacianni/static/css/main.fb613630.chunk.css.map",
     "static/js/2.1f7edfa5.chunk.js.LICENSE.txt": "/piacianni/static/js/2.1f7edfa5.chunk.js.LICENSE.txt",
     "static/media/boxicons.min.css": "/piacianni/static/media/boxicons.cbd149c5.ttf",
     "static/media/cokelat.35cc87f1.png": "/piacianni/static/media/cokelat.35cc87f1.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.6e180df3.js",
     "static/css/2.4cccadb8.chunk.css",
     "static/js/2.1f7edfa5.chunk.js",
-    "static/css/main.90dfad4c.chunk.css",
-    "static/js/main.06abe9e8.chunk.js"
+    "static/css/main.fb613630.chunk.css",
+    "static/js/main.95625a25.chunk.js"
   ]
 }
