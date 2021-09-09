@@ -1,8 +1,10 @@
+import ImageFluid from "./ImageFluid"
+
 function Brand(props) {
   return (
     <div className="logo mr-auto">
       <a href="index.html">
-        <img src={props.source} alt="logo-piacianni" className="img-fluid" />
+        <ImageFluid source={props.source} altImg="logo-piacianni" />
       </a>
     </div>
   )

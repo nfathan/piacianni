@@ -9,7 +9,6 @@ import 'remixicon/fonts/remixicon.css';
 // import 'owl.carousel/dist/assets/owl.carousel.css'
 // import 'owl.carousel/dist/assets/owl.carousel.min.css'
 import 'aos/dist/aos.css';
-
 import './styles/index.css';
 
 import 'jquery/dist/jquery.min.js'

@@ -1,4 +1,5 @@
 import imghero from '../../img/piacianni.png';
+import LinkOrder from '../LinkOrder';
 
 function HeroInfo() {
   return (
@@ -8,14 +9,11 @@ function HeroInfo() {
           <div data-aos="zoom-out">
             <h1>Bakpia Kering <span>Cianni</span></h1>
             <h2>Nikmati Pia Kering Dengan Tekstur Renyah & Lembut Ditambah Cita Rasa Yang Bikin Kamu Ketagihan </h2>
-            <div className="text-center text-lg-left">
-              <a 
-                href="https://wa.me/6285328749030" 
-                className="btn-get-started scrollto" 
-                target="blank">
-                  Beli Sekarang
-              </a>
-            </div>
+            <LinkOrder 
+              class="text-center text-lg-left" 
+              classElmtA="btn-get-started scrollto" 
+              text="Beli Sekarang" 
+            />
           </div>
         </div>
         <div 
