@@ -4,7 +4,7 @@ function Navigation() {
       <ul>
         <li className="active"><a href="#header">Home</a></li>
         <li><a href="#about">Tentang Kami</a></li>                        
-        <li><a href="#pricing">Produk</a></li>
+        <li><a href="#product">Produk</a></li>
         {/* <li><a href="#features">Layanan</a></li> */}
         <li><a href="#testimonials">Testimoni</a></li>
         {/* <li><a href="#team">Team</a></li> */}
