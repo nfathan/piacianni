@@ -3,7 +3,7 @@
 Project ini dibuat dengan [Create React App](https://github.com/facebook/create-react-app)
 
 ## Ringkasan Project
-- Project ini dibuat untuk melatih kemampuan React.JS saya
+- Project ini dibuat untuk melatih kemampuan saya terhadap React.JS 
 - Piacianni App adalah Landing Page dari sebuah bisnis rumahan yang memproduksi kue pia kering di kota Palu
 - 
 
